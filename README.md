@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://cdn.discordapp.com/attachments/1014177693199253544/1097447255058940005/image.png?width=2249&height=750" />
+    src="https://media1.tenor.com/m/Fsj75FWpFZIAAAAd/ayame-%E7%99%BE%E9%AC%BC%E3%81%82%E3%82%84%E3%82%81.gif">
   <p align="center" style="font-family: 'Product Sans', sans-serif;"><h3><b>Hello! I'm just your average weeb who likes coding!</b></h3></p>
   <img height="140px" 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4A8CA&center=true&vCenter=true&width=435&lines=bruh"
