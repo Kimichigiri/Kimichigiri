@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="kimic_icpc.jpg" alt="wallpaper-profile">
+  <img src="kimic_icpc.png" alt="wallpaper-profile">
   <p align="center" style="font-family: 'Product Sans', sans-serif;"><h3><b>Hello! I'm just your average weeb who likes coding!</b></h3></p>
   <img height="140px" 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4A8CA&center=true&vCenter=true&width=435&lines=real"
